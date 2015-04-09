@@ -120,5 +120,8 @@ public class ControlEstudiante implements ActionListener, MouseListener, ItemLis
     public void itemStateChanged(ItemEvent e) {
         
     }
+    public void andres(){
+        
+    }
 
 }
