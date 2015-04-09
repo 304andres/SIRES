@@ -121,7 +121,7 @@ public class ControlEstudiante implements ActionListener, MouseListener, ItemLis
         
     }
     public void andres(){
-        
+        int adn;
     }
 
 }
